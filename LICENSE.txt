@@ -1,0 +1,51 @@
+FWG STUDIO — FREE SAMPLE LICENSE
+Version 1.0 — October 6, 2026
+
+Seller-proposed terms. This text has not received formal legal review.
+
+1. Permission to use
+FWG Studio grants the purchaser (or recipient of the free sample) a
+non-exclusive license to use and personalize these assets on channels and
+social accounts they own or operate as one creator or one business.
+Monetized streams, sponsored streams, channel videos, thumbnails, and
+promotion of those channels are allowed. There is no audience-size limit.
+
+2. Editing and help
+You may edit the included files for your own channels. You may share a
+working copy privately with an editor assisting only your licensed use;
+the editor may not retain or reuse it for other clients. Keep backups.
+
+3. No resale or source redistribution
+Do not resell, sublicense, give away, upload to an asset marketplace, or
+redistribute these templates or their source files. Do not offer them as
+your own downloadable product, template, stock art, NFT, or standalone
+background-art collection. Public display as part of your channel output
+is permitted and is different from distributing the asset files.
+
+4. Non-exclusive design
+Other customers may buy or use the same design. No exclusive branding,
+trademark clearance, or exclusive intellectual-property rights are
+promised. Replace YOURNAME, YOURHANDLE, and YN with your own identity.
+
+5. Third-party materials
+Included DejaVu fonts keep their separate license in fonts/LICENSE.txt
+(or ATTRIBUTION.txt for this sample). Nothing in this asset license limits
+rights that the font license grants. OBS and streaming-platform names
+belong to their owners; no affiliation or endorsement is claimed.
+
+6. AI-assisted artwork
+Abstract background artwork was created with an AI image-generation tool
+and combined with original template layout, typography, and UI graphics.
+These templates are offered non-exclusively. No copyright registration,
+exclusive rights in generated artwork, or uniqueness guarantee is made.
+
+7. Scope
+The files are digital assets. Hosting, installation, live chat, alerts,
+emotes, badges, gameplay footage, music, animated video exports, and
+custom design services are not included. The browser scene uses CSS
+animation and runs locally; it is not a video file.
+
+8. Consumer rights
+Nothing here removes rights that applicable consumer law does not allow
+to be excluded. Any customer-facing refund policy is separate and must
+identify the actual seller and their contact details before paid launch.
