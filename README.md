@@ -1,5 +1,7 @@
 # FWG Studio · Free OBS Starting Soon screen
 
+<p><img src="docs/branding/fwg-studio-display.svg" alt="FWG Studio" width="220" height="220"></p>
+
 An official free Gridline sample from [FWG Studio](https://fwg.world/studio?via=github-obs-sample-20261008): a static Starting Soon screen for OBS and a matching About panel for your channel page. Both PNGs are unwatermarked and use generic text, so you can use them as supplied.
 
 FWG Studio creates and maintains this resource. The abstract background artwork is AI-assisted; the layout, typography, and UI graphics are part of the Studio composition. See the original [licence](LICENSE.txt) and [attribution notice](ATTRIBUTION.txt).
@@ -50,3 +52,4 @@ The original [FWG Studio Free Sample Licence](LICENSE.txt) permits use and perso
 The original licence and attribution text are preserved unchanged. The original supplied setup guidance is also retained in [docs/original-sample-readme.md](docs/original-sample-readme.md). No standalone font files are included in this repository.
 
 OBS and streaming-platform names belong to their owners. No affiliation or endorsement is claimed.
+
