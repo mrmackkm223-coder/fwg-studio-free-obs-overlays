@@ -43,7 +43,7 @@ Upload `assets/about.png` where your streaming platform supports a custom channe
 
 Read [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008) to choose between a static Image source and a local HTML Browser source.
 
-The optional [complete Gridline pack](https://fwg.world/studio/packs/gridline?via=github-obs-sample-20261008) is **C$29, one-time in CAD**. It includes 14 designs in PNG and editable SVG, an animated local HTML scene, and a local personalizer. Buying it is not required to use this free sample.
+For hosted OBS themes, see [current FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). Review the current billing terms and included features there before subscribing. Memberships do not include downloadable theme packs, editable SVGs, or local HTML source files. No membership or purchase is required to use this free sample.
 
 ## Licence and original guidance
 

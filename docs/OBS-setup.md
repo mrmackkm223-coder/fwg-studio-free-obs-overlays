@@ -55,7 +55,7 @@ Add your channel introduction in the platform’s accompanying panel-text field.
 - **The edges or text are cut off:** inspect the transform and crop; try Fit to Screen in a test scene.
 - **The image does not move:** this PNG is static by design.
 
-For the animated format, see [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008). The free sample remains useful on its own; animation and the personalizer belong to the optional paid pack.
+For the animated format, see [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008). For current hosted-theme features and billing terms, see [FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). This free sample remains a separate static download and requires no membership or purchase.
 
 ## Sources and ownership
 
