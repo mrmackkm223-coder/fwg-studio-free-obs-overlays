@@ -2,9 +2,9 @@
 
 <p><img src="docs/branding/fwg-studio-display.svg" alt="FWG Studio" width="220" height="220"></p>
 
-Official free samples from [FWG Studio](https://fwg.world/studio?via=github-obs-sample-20261008): four static Starting Soon screens for OBS, each with a matching About panel for your channel page. Every PNG is unwatermarked and uses generic text, so you can use it as supplied.
+Official free samples from [FWG Studio](https://fwg.world/studio?via=github-obs-sample-20261008): five static Starting Soon screens for OBS, each with a matching About panel for your channel page. Every PNG is unwatermarked and uses generic text, so you can use it as supplied.
 
-FWG Studio creates and maintains this resource. In the Gridline sample the abstract background artwork is AI-assisted, and the layout, typography, and UI graphics are part of the Studio composition. The Voltage, Cloudberry, and Nightdrive samples are vector artwork generated from code written with AI assistance. See the original [licence](LICENSE.txt) and [attribution notice](ATTRIBUTION.txt).
+FWG Studio creates and maintains this resource. In the Gridline sample the abstract background artwork is AI-assisted, and the layout, typography, and UI graphics are part of the Studio composition. The Voltage, Cloudberry, Nightdrive, and Snowdrift samples are vector artwork generated from code written with AI assistance. See the original [licence](LICENSE.txt) and [attribution notice](ATTRIBUTION.txt).
 
 ## Preview
 
@@ -12,12 +12,17 @@ FWG Studio creates and maintains this resource. In the Gridline sample the abstr
 
 <img src="assets/about.png" width="320" height="80" alt="Matching Gridline About channel panel with a lime accent">
 
-## Three more styles
+## Four more styles
 
-| Voltage | Cloudberry | Nightdrive |
-| --- | --- | --- |
-| ![Voltage Starting Soon screen: dark graphite background with a lime low-poly crystal](assets/voltage-starting-soon.png) | ![Cloudberry Starting Soon screen: pastel pink clouds around a rounded window card](assets/cloudberry-starting-soon.png) | ![Nightdrive Starting Soon screen: synthwave sunset over a neon grid](assets/nightdrive-starting-soon.png) |
-| Dark HUD | Cozy pastel | Synthwave |
+| Voltage | Cloudberry |
+| --- | --- |
+| ![Voltage Starting Soon screen: dark graphite background with a lime low-poly crystal](assets/voltage-starting-soon.png) | ![Cloudberry Starting Soon screen: pastel pink clouds around a rounded window card](assets/cloudberry-starting-soon.png) |
+| Dark HUD | Cozy pastel |
+
+| Nightdrive | Snowdrift |
+| --- | --- |
+| ![Nightdrive Starting Soon screen: synthwave sunset over a neon grid](assets/nightdrive-starting-soon.png) | ![Snowdrift Starting Soon screen: snowy night with pine trees, a cabin and string lights](assets/snowdrift-starting-soon.png) |
+| Synthwave | Winter night |
 
 ## What you get
 
@@ -27,6 +32,7 @@ FWG Studio creates and maintains this resource. In the Gridline sample the abstr
 | Voltage | [assets/voltage-starting-soon.png](assets/voltage-starting-soon.png) | [assets/voltage-about-panel.png](assets/voltage-about-panel.png), 640 × 200 |
 | Cloudberry | [assets/cloudberry-starting-soon.png](assets/cloudberry-starting-soon.png) | [assets/cloudberry-about-panel.png](assets/cloudberry-about-panel.png), 640 × 200 |
 | Nightdrive | [assets/nightdrive-starting-soon.png](assets/nightdrive-starting-soon.png) | [assets/nightdrive-about-panel.png](assets/nightdrive-about-panel.png), 640 × 200 |
+| Snowdrift | [assets/snowdrift-starting-soon.png](assets/snowdrift-starting-soon.png) | [assets/snowdrift-about-panel.png](assets/snowdrift-about-panel.png), 640 × 200 |
 
 Use a Starting Soon screen as a full-screen, static scene in OBS. The About panels are designed to display at half their pixel size where your platform supports custom panel images.
 
@@ -52,7 +58,7 @@ Upload the About panel that matches your screen, such as `assets/about.png`, whe
 
 ## Want the whole pack?
 
-Voltage, Cloudberry, and Nightdrive are samples from full FWG Studio stream packs. Each pack is a one-time purchase with four scenes as PNG, animated HTML, and looping MP4; six overlays including webcam frames; fifteen channel panels; six animated alerts; a stinger transition; and a personalizer page that puts your channel name on every file. Find them on the [FWG Studio itch.io page](https://forgeworldgaming.itch.io/). No purchase is needed to use the free samples here.
+Voltage, Cloudberry, Nightdrive, and Snowdrift are samples from full FWG Studio stream packs. Each pack is a one-time purchase with four scenes as PNG, animated HTML, and looping MP4; six overlays including webcam frames; fifteen channel panels; six animated alerts; a stinger transition; and a personalizer page that puts your channel name on every file. Find them on the [FWG Studio itch.io page](https://forgeworldgaming.itch.io/). No purchase is needed to use the free samples here.
 
 ## Prefer a scene with motion?
 
