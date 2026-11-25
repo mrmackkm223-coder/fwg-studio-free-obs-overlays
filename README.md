@@ -43,6 +43,8 @@ Upload `assets/about.png` where your streaming platform supports a custom channe
 
 Read [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008) to choose between a static Image source and a local HTML Browser source.
 
+Want a local animated version? The [Gridline Animated OBS Overlay Pack](https://forgeworldgaming.itch.io/gridline-animated-obs) is a one-time purchase on itch.io. It includes customizable local HTML scenes and does not require a Studio membership.
+
 For hosted OBS themes, see [current FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). Review the current billing terms and included features there before subscribing. Memberships do not include downloadable theme packs, editable SVGs, or local HTML source files. No membership or purchase is required to use this free sample.
 
 ## Licence and original guidance
