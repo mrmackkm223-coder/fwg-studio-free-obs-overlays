@@ -57,6 +57,8 @@ Add your channel introduction in the platform’s accompanying panel-text field.
 
 For the animated format, see [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008). For current hosted-theme features and billing terms, see [FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). This free sample remains a separate static download and requires no membership or purchase.
 
+If you want the same Gridline look with motion and matching Starting Soon, Be Right Back, Ending, and Offline scenes, see the [one-time animated Gridline pack on itch.io](https://forgeworldgaming.itch.io/gridline-animated-obs). The paid pack exports each scene as a local HTML file for an OBS **Browser** source. Keep using an **Image** source for the free PNG above.
+
 ## Sources and ownership
 
 - [OBS Image Sources](https://obsproject.com/kb/image-sources): PNG support and image-file settings.
