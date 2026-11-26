@@ -1,6 +1,6 @@
-# Set up the free Gridline sample in OBS
+# Set up the free samples in OBS
 
-This resource contains a static Starting Soon screen and an About channel panel. Use the screen as an OBS Image source and the panel on a channel page that supports custom panel images.
+This resource contains five static Starting Soon screens, each with a matching About channel panel. Use a screen as an OBS Image source and its panel on a channel page that supports custom panel images. The steps below use the Gridline file names; the Voltage, Cloudberry, Nightdrive, and Snowdrift files work the same way.
 
 ## 1. Keep the files in a stable folder
 
@@ -10,6 +10,8 @@ The files you need are:
 
 - [`assets/starting.png`](../assets/starting.png): 1920 × 1080.
 - [`assets/about.png`](../assets/about.png): 640 × 160, designed for a 320 × 80 panel display.
+- `assets/voltage-starting-soon.png`, `assets/cloudberry-starting-soon.png`, `assets/nightdrive-starting-soon.png`, and `assets/snowdrift-starting-soon.png`: 1920 × 1080.
+- `assets/voltage-about-panel.png`, `assets/cloudberry-about-panel.png`, `assets/nightdrive-about-panel.png`, and `assets/snowdrift-about-panel.png`: 640 × 200, designed for a 320 × 100 panel display.
 
 Read [LICENSE.txt](../LICENSE.txt) before use. It allows creator use, including monetized channels, and restricts redistribution of the asset files.
 
@@ -44,7 +46,7 @@ Showing the Starting Soon image does not start the broadcast. When you are ready
 
 ## 5. Add the About panel to your channel
 
-Where your streaming platform supports a custom panel image, upload `assets/about.png`. It is designed for display at **320 × 80**, using a **640 × 160** source image.
+Where your streaming platform supports a custom panel image, upload the About panel that matches your screen. The Gridline panel, `assets/about.png`, is designed for display at **320 × 80**, using a **640 × 160** source image. The other four panels are designed for **320 × 100**, using **640 × 200** source images.
 
 Add your channel introduction in the platform’s accompanying panel-text field. This panel is for your channel page and is not an OBS camera frame.
 
