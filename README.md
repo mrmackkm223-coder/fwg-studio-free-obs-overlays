@@ -2,7 +2,7 @@
 
 <p><img src="docs/branding/fwg-studio-display.svg" alt="FWG Studio" width="220" height="220"></p>
 
-An official free Gridline sample from [FWG Studio](https://fwg.world/studio?via=github-obs-sample-20261008): a static Starting Soon screen for OBS and a matching About panel for your channel page. Both PNGs are unwatermarked and use generic text, so you can use them as supplied.
+An official free Gridline sample from [FWG Studio on itch.io](https://forgeworldgaming.itch.io/): a static Starting Soon screen for OBS and a matching About panel for your channel page. Both PNGs are unwatermarked and use generic text, so you can use them as supplied.
 
 FWG Studio creates and maintains this resource. The abstract background artwork is AI-assisted; the layout, typography, and UI graphics are part of the Studio composition. See the original [licence](LICENSE.txt) and [attribution notice](ATTRIBUTION.txt).
 
@@ -41,11 +41,11 @@ Upload `assets/about.png` where your streaming platform supports a custom channe
 
 ## Prefer a scene with motion?
 
-Read [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008) to choose between a static Image source and a local HTML Browser source.
+Follow the [OBS walkthrough](https://forgeworldgaming.itch.io/gridline-free-stream-sample/devlog/1810496/from-a-static-starting-soon-screen-to-an-animated-one-in-obs) to add the free PNG as an Image source or a local animated HTML scene as a Browser Source.
 
-Want a local animated version? The [Gridline Animated OBS Overlay Pack](https://forgeworldgaming.itch.io/gridline-animated-obs) is a one-time purchase on itch.io. It includes customizable local HTML scenes and does not require a Studio membership.
+The [Gridline Animated OBS Overlay Pack](https://forgeworldgaming.itch.io/gridline-animated-obs) includes customizable local HTML scenes with a one-time purchase on itch.io. The [Gridline membership on Gumroad](https://fwgworld.gumroad.com/l/gridline-obs-membership) costs **US$13 per month** and includes downloads and use during your paid period.
 
-For hosted OBS themes, see [current FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). Review the current billing terms and included features there before subscribing. Memberships do not include downloadable theme packs, editable SVGs, or local HTML source files. No membership or purchase is required to use this free sample.
+FWG Studio's hosted OBS themes use separate plans. This free sample is available without a purchase.
 
 ## Licence and original guidance
 
