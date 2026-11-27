@@ -55,9 +55,11 @@ Add your channel introduction in the platform’s accompanying panel-text field.
 - **The edges or text are cut off:** inspect the transform and crop; try Fit to Screen in a test scene.
 - **The image does not move:** this PNG is static by design.
 
-For the animated format, see [Add animated overlays to OBS](https://fwg.world/studio/guides/animated-obs-overlays?via=github-obs-sample-20261008). For current hosted-theme features and billing terms, see [FWG Studio membership plans](https://fwg.world/studio/pricing?via=github-obs-sample-20261008). This free sample remains a separate static download and requires no membership or purchase.
+Use an OBS **Image** source for the free PNG. The [OBS walkthrough](https://forgeworldgaming.itch.io/gridline-free-stream-sample/devlog/1810496/from-a-static-starting-soon-screen-to-an-animated-one-in-obs) shows how to set up the PNG and add a local animated HTML scene as a **Browser** source.
 
-If you want the same Gridline look with motion and matching Starting Soon, Be Right Back, Ending, and Offline scenes, see the [one-time animated Gridline pack on itch.io](https://forgeworldgaming.itch.io/gridline-animated-obs). The paid pack exports each scene as a local HTML file for an OBS **Browser** source. Keep using an **Image** source for the free PNG above.
+For four customizable animated scenes, choose the [one-time Gridline pack on itch.io](https://forgeworldgaming.itch.io/gridline-animated-obs) or subscribe to the [downloadable Gridline membership](https://fwgworld.gumroad.com/l/gridline-obs-membership) for **US$13 per month**. The membership covers downloads and use during your paid period.
+
+The [US$65 one-time personalization service on Contra](https://contra.com/s/LsZvZbFR-personalize-four-1080p-obs-scenes-for-your-channel) covers customization for four 1080p scenes. For animated HTML, use the paid Gridline download or an active membership that includes it. Your licence must permit private editing. For static PNGs, provide a 1920 × 1080 background you have permission to share for editing and display on your channel.
 
 ## Sources and ownership
 
