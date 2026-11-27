@@ -45,6 +45,8 @@ Follow the [OBS walkthrough](https://forgeworldgaming.itch.io/gridline-free-stre
 
 The [Gridline Animated OBS Overlay Pack](https://forgeworldgaming.itch.io/gridline-animated-obs) includes customizable local HTML scenes with a one-time purchase on itch.io. The [Gridline membership on Gumroad](https://fwgworld.gumroad.com/l/gridline-obs-membership) costs **US$13 per month** and includes downloads and use during your paid period.
 
+If you own the paid Gridline pack or have an active Gridline membership, [Mack can personalize four OBS scenes for your channel](https://contra.com/s/LsZvZbFR-personalize-four-1080p-obs-scenes-for-your-channel) for a separate one-time fee of **US$65**.
+
 FWG Studio's hosted OBS themes use separate plans. This free sample is available without a purchase.
 
 ## Licence and original guidance
